@@ -2,8 +2,8 @@
 
 - _IIT Repository is primarily used for storing and sharing tutorial/lab work_
 
-**#Name:** Abdullah Rubbani
+**Name:** Abdullah Rubbani
 
-**#Student ID:** u3280268
+**Student ID:** u3280268
 
 
